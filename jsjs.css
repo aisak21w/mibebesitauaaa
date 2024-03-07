@@ -250,7 +250,7 @@ header{
   }
 
 .container{
-    width: 320px;
+    width: 100%;
     margin: 0em auto;
     padding:0px;
     gap:0rem;
@@ -262,13 +262,13 @@ header{
 
 
 #imagenpost1{
-    width: 288px;
+    width: 100%;
 }
 #imagenpost2{
-    width: 288px;
+    width: 100%;
 }
 #imagenpost3{
-    width: 288px;
+    width: 100%;
 }
 
 }
