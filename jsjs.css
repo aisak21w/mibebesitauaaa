@@ -253,9 +253,8 @@ header{
     width: 320px;
     margin: 0 auto;
     padding:0;
-    gap:0em;
+    gap:0rem;
     display:block;
-    text-align: center;
     align-items: center;
     
 }
